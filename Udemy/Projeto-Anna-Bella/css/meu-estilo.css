@@ -1,0 +1,60 @@
+body {
+	background: #d2d2d2 url("../imagens/fundo1.png");
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif; 
+}
+
+#conteudo {
+	width: 880px;
+	padding: 10px;
+
+}
+
+.paragrafo { 
+	font-size: 1em;
+ }
+
+#menu {
+
+	width: 860px;
+	padding: 20px;
+	font-size: 1em;
+	font-weight: bold;
+
+}
+
+a {
+	color: #0B4C5F;
+	text-decoration: none;
+}
+
+.titulo {
+	color: #6E6E6E;
+	font-size: 1.5em;
+
+}
+
+.bg-menu { 
+ background-color: #A4A4A4;
+}
+
+.bg-conteudo {
+	background-color: white;
+}
+
+#rodape {
+	width: 900px;
+	text-align: center;
+}
+.textordp {
+	font-size: .9em;	
+	font-weight: bold;
+}
+
+.foto {
+	border: 10px solid #ccc;
+}
+
+.txtcontato {
+	font-weight: bold;
+}
